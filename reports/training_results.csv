@@ -1,0 +1,2 @@
+Model,Dataset,Train Samples,Test Samples,Epochs,Batch Size,Learning Rate,Micro F1,Macro F1,Weighted F1,Micro Precision,Micro Recall
+bert-base-uncased,GoEmotions,43410,5427,3,16,2e-05,0.5767010504400492,0.4012469620303443,0.5398594786838548,0.7189712128362435,0.4814346658239848
