@@ -1,0 +1,11 @@
+# Model checkpoints
+checkpoints/
+*.safetensors
+*.bin
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
